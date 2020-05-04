@@ -4,7 +4,7 @@ Mask your mac address with mac_changer python script
 **author: Vighnesh Ghantasala**\
 **github:** https://github.com/VighneshGhantasala/
 
-**tested on Ubuntu and other linux distributions**
+**Tested on Ubuntu and other linux distributions**
 # prerequisites
   __python 2.7__\
   __linux distro__

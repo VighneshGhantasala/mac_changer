@@ -20,9 +20,6 @@ Mask your mac address with mac_changer python script
       -l, --list            Lists the interfaces available
      ex: #>python ./mac_changer.py -l
          #>python ./mac_changer.py -i eth0 -m 00:11:22:33:44:55
-
-# Contact
-**Wanna have a conversation?[DM @twitter:trojanOO7](https://twitter.com/trojanOO7)**
 # Contribution & License
 
 You can contribute in following ways:
@@ -30,3 +27,6 @@ You can contribute in following ways:
 * Report bugs
 * Give suggestions to make it better
 * Suggest New features 
+# Contact
+**Wanna have a conversation?[DM @twitter:trojanOO7](https://twitter.com/trojanOO7)**
+
